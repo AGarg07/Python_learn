@@ -1,1 +1,4 @@
-/Udemy_ML
+/Adv_chapters/
+/Udemy_ML/
+*.pyc
+__pycache__/
